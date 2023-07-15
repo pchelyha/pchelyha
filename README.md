@@ -1,7 +1,5 @@
 # 🙋‍♂ About me
 Hi<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="30" height="30" />, I am Ilya Tsvetkov, I live in Nizhny Novgorod, Russia. I am engaged in the layout and client side of web applications.
-- I’m interested in web development
-- I’m currently learning JavaScript
 # 📞 Contacts
 - Email: tsvetkov8999@gmail.com
 - Telegram: https://t.me/phelyha
